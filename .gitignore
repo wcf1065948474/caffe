@@ -1,5 +1,7 @@
 ## General
 
+build_caffe/
+
 # Compiled Object files
 *.slo
 *.lo
